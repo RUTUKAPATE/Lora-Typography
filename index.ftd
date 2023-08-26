@@ -3,13 +3,6 @@
 -- import: fifthtry.github.io/package-doc/footer
 -- import: rutukapate.github.io/Lora-Typography/FASTN.ftd/assets as lora-assets
 
-;; ⚠️fastn-builders::⚠️ before using this file please find and replace inter-font
-;; with font package name you have given inside this package 
-;; `rutukapate.github.io/lora-typography/FASTN.ftd file
-;; `<font-name>` replace with font you are using. 
-;; remove these comments once you are done.
-
-
 
 -- ds.page: 
 show-footer: true
